@@ -2,7 +2,8 @@
 
 ## Overview
 
-To support learning networking and cyber security, a home lab is a very useful resource for getting hands-on practice. An old laptop was employed for this purpose. I installed Ubuntu OS  in order to also have an environment for learning to use Linux, and used KVM/QEMU virtualisation due to it's effective integration with the Linux kernel.
+In order to practice IT tech support concepts such as networking, directory services, and security, I decided to set up a lab environment where I could explore these concepts using virtual machines.
+An old laptop was employed for this purpose. I installed Ubuntu OS  in order to also have an environment for learning to use Linux, and used KVM/QEMU virtualisation due to it's effective integration with the Linux kernel.
 
 ---
 
